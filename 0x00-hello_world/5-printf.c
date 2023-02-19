@@ -2,9 +2,10 @@
 /**
  * main - print a C program using printf
  *
- * return: always 0 (success)
- */
+ * Return: 0
+*/
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
+}
